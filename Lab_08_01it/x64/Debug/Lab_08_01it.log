@@ -1,0 +1,3 @@
+﻿  Lab_08_01it.cpp
+C:\uni\labs\Lab_08_01it\Lab_08_01it.cpp(14,14): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Lab_08_01it.vcxproj -> C:\uni\labs\Lab_08_01it\x64\Debug\Lab_08_01it.exe
